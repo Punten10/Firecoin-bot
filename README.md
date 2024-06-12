@@ -10,7 +10,7 @@ Daftar Disini https://t.me/firecoin_app_bot/app?startapp=r_1993663749
 ```
 
 ## instalasi
-Butuh node.js
+Butuh node.js [( LINK DOWNLOAD )](https://nodejs.org/en/download/prebuilt-installer)
 ```shell
 >> git clone https://github.com/Punten10/Firecoin-bot.git
 >> cd Firecoin-bot
@@ -32,8 +32,10 @@ Butuh node.js
 # Awalan tma query_id=xxx
 >> input pada script
 # Tap Level : Level Firecoin Saat ini
+# Sleep Time (ms): 1 Second = 1000ms
 ```
-![image](https://github.com/Punten10/Firecoin-bot/assets/64400801/973ed0de-5e1f-483f-96de-a758828c2dd4)
+![image](https://github.com/Punten10/Firecoin-bot/assets/64400801/bca397c2-4d6f-470d-8cde-5f8f01727efa)
+
 ![image](https://github.com/Punten10/Firecoin-bot/assets/64400801/04b04704-0709-4acd-9706-ec1033a7c78e)
 
 # SUPPORT ME
