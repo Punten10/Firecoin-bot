@@ -1,0 +1,19 @@
+{
+  "name": "firecoin-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node script.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "moment-timezone": "^0.5.32",
+    "readline-sync": "^1.4.10",
+    "type": "^2.7.3"
+  }
+}
